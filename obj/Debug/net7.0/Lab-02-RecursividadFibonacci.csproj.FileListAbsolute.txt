@@ -1,0 +1,15 @@
+C:\Users\pc\OneDrive\Escritorio\Datos II\Lab-02-RecursividadFibonacci\bin\Debug\net7.0\Lab-02-RecursividadFibonacci.exe
+C:\Users\pc\OneDrive\Escritorio\Datos II\Lab-02-RecursividadFibonacci\bin\Debug\net7.0\Lab-02-RecursividadFibonacci.deps.json
+C:\Users\pc\OneDrive\Escritorio\Datos II\Lab-02-RecursividadFibonacci\bin\Debug\net7.0\Lab-02-RecursividadFibonacci.runtimeconfig.json
+C:\Users\pc\OneDrive\Escritorio\Datos II\Lab-02-RecursividadFibonacci\bin\Debug\net7.0\Lab-02-RecursividadFibonacci.dll
+C:\Users\pc\OneDrive\Escritorio\Datos II\Lab-02-RecursividadFibonacci\bin\Debug\net7.0\Lab-02-RecursividadFibonacci.pdb
+C:\Users\pc\OneDrive\Escritorio\Datos II\Lab-02-RecursividadFibonacci\obj\Debug\net7.0\Lab-02-RecursividadFibonacci.csproj.AssemblyReference.cache
+C:\Users\pc\OneDrive\Escritorio\Datos II\Lab-02-RecursividadFibonacci\obj\Debug\net7.0\Lab-02-RecursividadFibonacci.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\OneDrive\Escritorio\Datos II\Lab-02-RecursividadFibonacci\obj\Debug\net7.0\Lab-02-RecursividadFibonacci.AssemblyInfoInputs.cache
+C:\Users\pc\OneDrive\Escritorio\Datos II\Lab-02-RecursividadFibonacci\obj\Debug\net7.0\Lab-02-RecursividadFibonacci.AssemblyInfo.cs
+C:\Users\pc\OneDrive\Escritorio\Datos II\Lab-02-RecursividadFibonacci\obj\Debug\net7.0\Lab-02-RecursividadFibonacci.csproj.CoreCompileInputs.cache
+C:\Users\pc\OneDrive\Escritorio\Datos II\Lab-02-RecursividadFibonacci\obj\Debug\net7.0\Lab-02-RecursividadFibonacci.dll
+C:\Users\pc\OneDrive\Escritorio\Datos II\Lab-02-RecursividadFibonacci\obj\Debug\net7.0\refint\Lab-02-RecursividadFibonacci.dll
+C:\Users\pc\OneDrive\Escritorio\Datos II\Lab-02-RecursividadFibonacci\obj\Debug\net7.0\Lab-02-RecursividadFibonacci.pdb
+C:\Users\pc\OneDrive\Escritorio\Datos II\Lab-02-RecursividadFibonacci\obj\Debug\net7.0\Lab-02-RecursividadFibonacci.genruntimeconfig.cache
+C:\Users\pc\OneDrive\Escritorio\Datos II\Lab-02-RecursividadFibonacci\obj\Debug\net7.0\ref\Lab-02-RecursividadFibonacci.dll
